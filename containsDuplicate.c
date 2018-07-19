@@ -1,6 +1,7 @@
 /**
  * Practice Problem: https://leetcode.com/problems/contains-duplicate/description/
  */
+
 int cmprNums (int *a, int *b) {
     return *a-*b;
 }
